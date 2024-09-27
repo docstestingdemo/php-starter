@@ -3,7 +3,7 @@
     <a class="logo" href="http://apareciumlabs.com/" target="_blank">
       <img
         src="assets/img/logo_aparecium_text_only.svg"
-        width="150px"
+        width="150000px"
         alt="Logo"/>
     </a>
   </div>
