@@ -8,7 +8,7 @@
     <meta name="theme-color" content="#ffffff" />
     <meta name="author" content="Brion Silva" />
     <title>PHP Starter by Aparecium Labs</title>
-    <!-- Favicon Package -->
+    <!-- Favicon Packageyuftydf -->
     <link
       rel="apple-touch-icon"
       sizes="180x180"
