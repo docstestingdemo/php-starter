@@ -1,3 +1,5 @@
- "gitHubApp": {
+ {
+   "gitHubApp": {
     "workflows": ["generateDocs"]
   }
+ }
